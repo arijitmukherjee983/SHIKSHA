@@ -10,9 +10,9 @@ function submitEmail() {
         alert("Please enter a valid email.");
     }
 }
-function getStarted() {
-    window.open('https://debajitgithub.github.io/SHIKSHA_demo', '_blank'); // Replace with your actual URL
-}
+//function getStarted() {
+//    window.open('https://debajitgithub.github.io/SHIKSHA_demo', '_blank'); // Replace with your actual URL
+//}
 
 
 
